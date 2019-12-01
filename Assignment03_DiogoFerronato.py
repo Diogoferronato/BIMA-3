@@ -1,3 +1,8 @@
+# BIM A+ 3
+# Assignment#3
+# Diogo Ferronato
+
+ 
 import math
 
 points = int(input("Enter the number of polygon points: "))
